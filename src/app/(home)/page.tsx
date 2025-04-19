@@ -31,7 +31,7 @@ const Home = () => {
           </h1>
           <p className={`mt-4 text-[30px] ${libre.className}`}>
             The design of this website is inspired by the official websites of
-            restaurant Joel Robuchon and L'AS.
+            {`restaurant Joel Robuchon and L'AS.`}
           </p>
         </div>
       </div>
