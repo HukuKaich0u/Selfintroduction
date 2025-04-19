@@ -19,6 +19,7 @@ const Contact = () => {
           href={
             "https://mail.google.com/mail/u/0/?to=s1f102402697@iniad.org&fs=1&tf=cm"
           }
+          target="_blank"
           className="text-blue-600 underline text-[30px]"
         >
           s1f102402697@iniad.org
