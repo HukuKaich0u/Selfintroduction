@@ -4,7 +4,6 @@ import Image from "next/image";
 import Taison from "../../../public/ろくでなしBLUES_vol.1_.jpg";
 import Shitennnou from "../../../public/ろくでなしBLUES.jpg";
 import Link from "next/link";
-import BottomButton from "../components/BottomButton";
 
 const libre = Libre_Caslon_Text({
   subsets: ["latin"],
