@@ -61,24 +61,24 @@ const About = () => {
           <div className="m-2">・音楽はKid Fresino, blackbear</div>
           <div className="my-[100px] flex justify-center items-center">
             <iframe
-              width="560"
-              height="315"
+              width="500"
+              height="280"
               src="https://www.youtube.com/embed/AQ2T5VVQfp0?si=2NRrRq5eRVwMGfGB"
               title="YouTube video player"
               allowFullScreen
               className="mx-7 "
             ></iframe>
             <iframe
-              width="560"
-              height="315"
+              width="500"
+              height="280"
               src="https://www.youtube.com/embed/yMlKJGKyoCo?si=N7IIUo2alt-gA0xh"
               title="YouTube video player"
               allowFullScreen
               className="mx-7 "
             ></iframe>
             <iframe
-              width="560"
-              height="315"
+              width="500"
+              height="280"
               src="https://www.youtube.com/embed/hbXcy50umRc?si=myKjLDPihUDMHKtG"
               title="YouTube video player"
               allowFullScreen
