@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 export const metadata: Metadata = {
   title: "Koki AOYAGI",
   description: "Hi! I'm Koki AOYAGI. This is my profile.",
-  icons: "./favicon.ico",
+  icons: "/favicon.ico",
   viewport: "width=device-width, initial-scale=1",
 };
 
