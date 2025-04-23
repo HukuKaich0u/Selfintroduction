@@ -76,6 +76,13 @@ const About = () => {
               allowFullScreen
               className="mx-7 "
             ></iframe>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/hbXcy50umRc?si=myKjLDPihUDMHKtG"
+              title="YouTube video player"
+              allowFullScreen
+            ></iframe>
           </div>
         </div>
       </div>
